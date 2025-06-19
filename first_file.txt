@@ -1,3 +1,1 @@
-#!/bin/sh
-
-waddup boi
+THis is my first file
